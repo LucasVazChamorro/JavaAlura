@@ -23,3 +23,11 @@ Projeto Modulo 01:  Simular o uso de uma conta bancária visualizando o saldo, s
 https://github.com/LucasVazChamorro/JavaAlura/tree/Desafio3_ProjetoModulo/ProjetoFinalModulo/src
 
 Link da execução em vídeo do Projeto: https://www.linkedin.com/posts/lucas-chamorro_para-finalizar-o-primeiro-m%C3%B3dulo-de-java-activity-7233658151189831680-Zept?utm_source=share&utm_medium=member_desktop
+## Curso 2 - Java: Orientação a Objetos
+
+Exercícios do curso:
+https://github.com/LucasVazChamorro/JavaAlura/tree/main/O.O/ExerciciosModulo02
+
+
+Projeto Modulo 02: Implementação de uma aplicação para cadastrar nossas músicas e podcasts preferidos, modelando as classes utilizando os conceitos de orientação a objetos: abstração, herança, encapsulamento e polimorfismo.
+https://github.com/LucasVazChamorro/JavaAlura/tree/main/O.O/ProjetoModulo2/src
